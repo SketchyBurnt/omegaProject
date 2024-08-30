@@ -1,0 +1,2 @@
+# omegaProject
+A JavaScript project
