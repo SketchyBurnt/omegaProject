@@ -1,5 +1,6 @@
 # omegaProject
 A JavaScript project
 
-## W3 SCHOOLS
-- [Resources](https://www.w3schools.com/html/default.asp)
+## Resources
+- [W3 Schoolds](https://www.w3schools.com/html/default.asp)
+- [Tailwind](https://tailwindcss.com/docs/installation)
